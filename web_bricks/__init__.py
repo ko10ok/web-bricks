@@ -11,4 +11,4 @@ __all__ = (
     'web_resolver'
 )
 
-__version__ = "0.1.3"
+__version__ = "0.1.4"
